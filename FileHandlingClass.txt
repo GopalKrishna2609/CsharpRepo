@@ -1,0 +1,112 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.IO;
+
+namespace FileHandlingHandson
+{
+    internal class FileHandlingClass
+    {
+        public void User_Module()
+        {
+            FileStream fst = new FileStream(@"C:\Users\hp\Documents\TrainningRepo\FileHandlingRepo\User.txt", FileMode.Append, FileAccess.Write);
+            StreamWriter sw = new StreamWriter(fst);
+            Console.Write("Enter the UserId: ");
+            sw.Write(Console.ReadLine());
+            sw.Write(',');
+
+            Console.Write("Enter the Firstname: ");
+            sw.Write(Console.ReadLine());
+            sw.Write(',');
+
+            Console.Write("Enter the Lastname: ");
+            sw.Write(Console.ReadLine());
+            sw.Write(',');
+
+            Console.Write("Enter the Email: ");
+            sw.Write(Console.ReadLine());
+            sw.Write(',');
+
+            Console.Write("Enter the Phone: ");
+            sw.Write(Console.ReadLine());
+            sw.WriteLine("");
+            sw.Close();
+            fst.Close();
+        }
+        public void Category_Module()
+        {
+            FileStream fobj = new FileStream(@"C:\Users\hp\Documents\TrainningRepo\FileHandlingRepo\Category.txt", FileMode.Append, FileAccess.Write);
+            StreamWriter sobj = new StreamWriter(fobj);
+            Console.Write("Enter the CategoryId: ");
+            sobj.Write(Console.ReadLine());
+            sobj.Write(',');
+
+            Console.Write("Enter the CategoryType: ");
+            sobj.Write(Console.ReadLine());
+
+            sobj.WriteLine("");
+            sobj.Close();
+            fobj.Close();
+        }
+        public void Product_Module()
+        {
+
+            FileStream fobj = new FileStream(@"C:\Users\hp\Documents\TrainningRepo\FileHandlingRepo\Product.txt", FileMode.Append, FileAccess.Write);
+            StreamWriter sobj = new StreamWriter(fobj);
+            Console.Write("Enter the Productid: ");
+            sobj.Write(Console.ReadLine());
+            sobj.Write(',');
+
+            Console.Write("Enter the categorytype: ");
+            sobj.Write(Console.ReadLine());
+            sobj.Write(',');
+
+            Console.Write("Enter the productname: ");
+            sobj.Write(Console.ReadLine());
+            sobj.Write(',');
+
+            Console.Write("Enter the quantity: ");
+            sobj.Write(Console.ReadLine());
+            sobj.Write(',');
+
+            Console.Write("Enter the price: ");
+            sobj.Write(Console.ReadLine());
+            sobj.WriteLine("");
+            sobj.Close();
+            fobj.Close();
+
+        }
+        public void Purchase_and_Sales_Module()
+        {
+
+
+            FileStream fobj = new FileStream(@"C:\Users\hp\Documents\TrainningRepo\FileHandlingRepo\Purchase&Sale.txt", FileMode.Append, FileAccess.Write);
+            StreamWriter sobj = new StreamWriter(fobj);
+            Console.Write("Enter the SalesId: ");
+            sobj.Write(Console.ReadLine());
+            sobj.Write(',');
+
+            Console.Write("Enter the Productid: ");
+            sobj.Write(Console.ReadLine());
+            sobj.Write(',');
+
+            Console.Write("Enter the price: ");
+            sobj.Write(Console.ReadLine());
+            sobj.Write(',');
+
+            Console.Write("Enter the salesdate: ");
+            sobj.Write(Console.ReadLine());
+
+
+
+            sobj.WriteLine("");
+            sobj.Close();
+            fobj.Close();
+
+
+
+        }
+    }
+}
