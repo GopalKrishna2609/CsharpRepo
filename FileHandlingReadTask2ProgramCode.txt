@@ -1,0 +1,23 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.IO;
+
+namespace FileHandlingReadFile
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Readfile readfile = new Readfile();
+            readfile.ReadFile();
+            readfile.Success();
+            readfile.Failed();  
+            readfile.Missed();
+            readfile.Dailed();
+        }
+       
+    }
+}
