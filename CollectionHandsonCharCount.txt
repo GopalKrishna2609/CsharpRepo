@@ -1,0 +1,44 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CollectionHandsonString
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Enter any String :-\n");
+            string line = Console.ReadLine();
+            Dictionary<char, int> charCount = new Dictionary<char, int>();
+            //char[] chars = line.ToCharArray();
+            for (int i = 0; i < line.Length; i++)
+            {
+                int count = 0;
+                for (int j = 0; j < line.Length; j++)
+                {
+                    if (line[i] == line[j])
+                    {
+                        count++;
+
+                    }
+                }
+                if(charCount.ContainsKey(line[i]))
+                {
+                    charCount.Add(line[i], count);
+                }
+            }
+            foreach (KeyValuePair<char, int> kvp in charCount)
+            {
+                Console.WriteLine("The count of string is:");
+
+                Console.WriteLine("{0}:{1}", kvp.Key, kvp.Value);
+            }
+            Console.ReadLine();
+            charCount.Clear();
+        }
+
+    }
+}
