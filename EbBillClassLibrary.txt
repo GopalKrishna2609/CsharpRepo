@@ -1,0 +1,85 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ShowDetails
+{
+    public class EBill
+    {
+        public int CustomerId { get; set; }
+        public string CustomerName { get; set; }
+        public string CustomerAdress { get; set; }
+        public int NoOfUnits { get; set; }
+        public int UnitPerCost { get; set; }
+        public int Total { get; set; }
+
+
+        public void Details(int totalCustomers)
+        {
+
+            List<EBill> list = new List<EBill>();
+            EBill ebillObj1 = new EBill();
+
+            List<EBill> list1 = new List<EBill>();
+            EBill ebillObj2 = new EBill();
+
+            for (int i = 0; i < totalCustomers; i++)
+            {
+
+                Console.WriteLine("Enter Customer Id.");
+                ebillObj1.CustomerId = Convert.ToInt32(Console.ReadLine());
+
+                Console.WriteLine("Enter Customer name");
+                ebillObj1.CustomerName = (Console.ReadLine());
+
+                Console.WriteLine("Enter Customer Addess : ");
+                ebillObj1.CustomerAdress = (Console.ReadLine());
+
+                Console.WriteLine("Enter NoOfUnits for customer : " + ebillObj1.CustomerId);
+                ebillObj2.NoOfUnits = Convert.ToInt32(Console.ReadLine());
+
+                Console.WriteLine("Enter UnitPerCost for customer : " + ebillObj1.CustomerId);
+                ebillObj2.UnitPerCost = Convert.ToInt32(Console.ReadLine());
+
+                ebillObj2.Total = ebillObj2.NoOfUnits * ebillObj2.UnitPerCost;
+
+                list.Add(ebillObj1);
+                list1.Add(ebillObj2);
+            }
+            
+            void ShowEbillDetails(int ID)
+            {
+
+                for (int i = 0; i < list.Count/2; i++)
+                {
+                    if (ebillObj1.CustomerId == ID)
+                    {
+                        Console.WriteLine("Customer ID:" + ebillObj1.CustomerId);
+                        Console.WriteLine("Customer name:" + ebillObj1.CustomerName);
+                        Console.WriteLine("Customer Addess:" + ebillObj1.CustomerAdress);
+                    }
+                }
+                for (int i = 0; i < list1.Count/2; i++)
+                {
+                    if (ebillObj1.CustomerId == ID)
+                    {
+                        Console.WriteLine("NoOfUnits :" + ebillObj2.NoOfUnits);
+                        Console.WriteLine("UnitPerCost :" + ebillObj2.UnitPerCost);
+                        Console.WriteLine("Total Prize :" + ebillObj2.Total);
+                    }
+                }
+            }
+            Console.WriteLine("Enter the Customer Id Whose Details you want to see :");
+            int cID = Convert.ToInt32(Console.ReadLine());
+            ShowEbillDetails(cID);
+        }
+        }
+    }
+
+
+
+
+ 
+
