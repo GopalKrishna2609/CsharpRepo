@@ -19,13 +19,16 @@ namespace CollectionHandsonString
                 int count = 0;
                 for (int j = 0; j < line.Length; j++)
                 {
-                    if (line[i] == line[j])
+                    if (i != j)
                     {
-                        count++;
+                        if (line[i].ToString().ToLower() == line[j].ToString().ToLower())
+                        {
+                            count++;
 
+                        }
                     }
                 }
-                if(charCount.ContainsKey(line[i]))
+                if(!charCount.ContainsKey(line[i]))
                 {
                     charCount.Add(line[i], count);
                 }
@@ -34,7 +37,7 @@ namespace CollectionHandsonString
             {
                 Console.WriteLine("The count of string is:");
 
-                Console.WriteLine("{0}:{1}", kvp.Key, kvp.Value);
+                Console.WriteLine("{0}:{1}", kvp.Key, kvp.Value+1);
             }
             Console.ReadLine();
             charCount.Clear();
@@ -42,3 +45,4 @@ namespace CollectionHandsonString
 
     }
 }
+
