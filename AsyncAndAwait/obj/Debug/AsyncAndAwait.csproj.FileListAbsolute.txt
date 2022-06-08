@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\C#taining\AsyncAndAwait\bin\Debug\AsyncAndAwait.exe.config
+C:\Users\hp\source\repos\C#taining\AsyncAndAwait\bin\Debug\AsyncAndAwait.exe
+C:\Users\hp\source\repos\C#taining\AsyncAndAwait\bin\Debug\AsyncAndAwait.pdb
+C:\Users\hp\source\repos\C#taining\AsyncAndAwait\obj\Debug\AsyncAndAwait.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\C#taining\AsyncAndAwait\obj\Debug\AsyncAndAwait.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\C#taining\AsyncAndAwait\obj\Debug\AsyncAndAwait.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\C#taining\AsyncAndAwait\obj\Debug\AsyncAndAwait.exe
+C:\Users\hp\source\repos\C#taining\AsyncAndAwait\obj\Debug\AsyncAndAwait.pdb
