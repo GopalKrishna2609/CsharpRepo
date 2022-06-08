@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\C#taining\LinqHandsOn\bin\Debug\LinqHandsOn.exe.config
+C:\Users\hp\source\repos\C#taining\LinqHandsOn\bin\Debug\LinqHandsOn.exe
+C:\Users\hp\source\repos\C#taining\LinqHandsOn\bin\Debug\LinqHandsOn.pdb
+C:\Users\hp\source\repos\C#taining\LinqHandsOn\obj\Debug\LinqHandsOn.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\C#taining\LinqHandsOn\obj\Debug\LinqHandsOn.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\C#taining\LinqHandsOn\obj\Debug\LinqHandsOn.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\C#taining\LinqHandsOn\obj\Debug\LinqHandsOn.exe
+C:\Users\hp\source\repos\C#taining\LinqHandsOn\obj\Debug\LinqHandsOn.pdb
