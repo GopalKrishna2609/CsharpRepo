@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\C#taining\Library_ADO\bin\Debug\Library_ADO.exe.config
+C:\Users\hp\source\repos\C#taining\Library_ADO\bin\Debug\Library_ADO.exe
+C:\Users\hp\source\repos\C#taining\Library_ADO\bin\Debug\Library_ADO.pdb
+C:\Users\hp\source\repos\C#taining\Library_ADO\obj\Debug\Library_ADO.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\C#taining\Library_ADO\obj\Debug\Library_ADO.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\C#taining\Library_ADO\obj\Debug\Library_ADO.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\C#taining\Library_ADO\obj\Debug\Library_ADO.exe
+C:\Users\hp\source\repos\C#taining\Library_ADO\obj\Debug\Library_ADO.pdb
