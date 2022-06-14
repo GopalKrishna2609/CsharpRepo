@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8c75103e-d769-4498-98a8-d5c63d88a41e": {
+      "ProjectGuid": "8c75103e-d769-4498-98a8-d5c63d88a41e",
+      "DisplayName": "CustomerDBConsole",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

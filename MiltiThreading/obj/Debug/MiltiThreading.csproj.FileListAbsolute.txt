@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\C#taining\MiltiThreading\bin\Debug\MiltiThreading.exe.config
+C:\Users\hp\source\repos\C#taining\MiltiThreading\bin\Debug\MiltiThreading.exe
+C:\Users\hp\source\repos\C#taining\MiltiThreading\bin\Debug\MiltiThreading.pdb
+C:\Users\hp\source\repos\C#taining\MiltiThreading\obj\Debug\MiltiThreading.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\C#taining\MiltiThreading\obj\Debug\MiltiThreading.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\C#taining\MiltiThreading\obj\Debug\MiltiThreading.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\C#taining\MiltiThreading\obj\Debug\MiltiThreading.exe
+C:\Users\hp\source\repos\C#taining\MiltiThreading\obj\Debug\MiltiThreading.pdb
