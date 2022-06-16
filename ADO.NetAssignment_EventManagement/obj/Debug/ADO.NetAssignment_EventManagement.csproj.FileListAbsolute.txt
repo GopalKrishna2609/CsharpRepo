@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\C#taining\ADO.NetAssignment_EventManagement\bin\Debug\ADO.NetAssignment_EventManagement.exe.config
+C:\Users\hp\source\repos\C#taining\ADO.NetAssignment_EventManagement\bin\Debug\ADO.NetAssignment_EventManagement.exe
+C:\Users\hp\source\repos\C#taining\ADO.NetAssignment_EventManagement\bin\Debug\ADO.NetAssignment_EventManagement.pdb
+C:\Users\hp\source\repos\C#taining\ADO.NetAssignment_EventManagement\obj\Debug\ADO.NetAssignment_EventManagement.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\C#taining\ADO.NetAssignment_EventManagement\obj\Debug\ADO.NetAssignment_EventManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\C#taining\ADO.NetAssignment_EventManagement\obj\Debug\ADO.NetAssignment_EventManagement.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\C#taining\ADO.NetAssignment_EventManagement\obj\Debug\ADO.NetAssignment_EventManagement.exe
+C:\Users\hp\source\repos\C#taining\ADO.NetAssignment_EventManagement\obj\Debug\ADO.NetAssignment_EventManagement.pdb
