@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d8849c0f-de1d-482c-83e8-c6e7d6d0cad0": {
+      "ProjectGuid": "d8849c0f-de1d-482c-83e8-c6e7d6d0cad0",
+      "DisplayName": "EntityFramework.Data",
+      "ColorIndex": 0
+    },
+    "1716878c-99fe-4e84-a0c8-3e9d13627438": {
+      "ProjectGuid": "1716878c-99fe-4e84-a0c8-3e9d13627438",
+      "DisplayName": "ConsoleStudyEntityApp",
+      "ColorIndex": 1
+    },
+    "1676bfe4-0f91-48c0-bb91-a3ce272f6001": {
+      "ProjectGuid": "1676bfe4-0f91-48c0-bb91-a3ce272f6001",
+      "DisplayName": "EntityStudyConsoleApp",
+      "ColorIndex": 2
+    },
+    "cb30c442-cc42-4cd6-b127-05d811808ede": {
+      "ProjectGuid": "cb30c442-cc42-4cd6-b127-05d811808ede",
+      "DisplayName": "EntityFrameworkLearning",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
