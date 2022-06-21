@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderAssignmentEF", "OrderAssignmentEF\OrderAssignmentEF.csproj", "{DA0CB791-EB0B-4623-8EBE-9C8548AEF49F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderAssignmentEFConsole", "OrderAssignmentEFConsole\OrderAssignmentEFConsole.csproj", "{FCC95624-30D4-442D-A3CC-5726140B53EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA0CB791-EB0B-4623-8EBE-9C8548AEF49F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0CB791-EB0B-4623-8EBE-9C8548AEF49F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0CB791-EB0B-4623-8EBE-9C8548AEF49F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0CB791-EB0B-4623-8EBE-9C8548AEF49F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCC95624-30D4-442D-A3CC-5726140B53EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC95624-30D4-442D-A3CC-5726140B53EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC95624-30D4-442D-A3CC-5726140B53EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC95624-30D4-442D-A3CC-5726140B53EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0083B03E-1F94-466D-9F24-3B17727BBA2D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\C#taining\OrderAssignmentEF\OrderAssignmentEF\bin\Debug\net6.0\OrderAssignmentEF.deps.json
+C:\Users\hp\source\repos\C#taining\OrderAssignmentEF\OrderAssignmentEF\bin\Debug\net6.0\OrderAssignmentEF.runtimeconfig.json
+C:\Users\hp\source\repos\C#taining\OrderAssignmentEF\OrderAssignmentEF\bin\Debug\net6.0\OrderAssignmentEF.dll
+C:\Users\hp\source\repos\C#taining\OrderAssignmentEF\OrderAssignmentEF\bin\Debug\net6.0\ref\OrderAssignmentEF.dll
+C:\Users\hp\source\repos\C#taining\OrderAssignmentEF\OrderAssignmentEF\bin\Debug\net6.0\OrderAssignmentEF.pdb
+C:\Users\hp\source\repos\C#taining\OrderAssignmentEF\OrderAssignmentEF\obj\Debug\net6.0\OrderAssignmentEF.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\C#taining\OrderAssignmentEF\OrderAssignmentEF\obj\Debug\net6.0\OrderAssignmentEF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\C#taining\OrderAssignmentEF\OrderAssignmentEF\obj\Debug\net6.0\OrderAssignmentEF.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\C#taining\OrderAssignmentEF\OrderAssignmentEF\obj\Debug\net6.0\OrderAssignmentEF.AssemblyInfo.cs
+C:\Users\hp\source\repos\C#taining\OrderAssignmentEF\OrderAssignmentEF\obj\Debug\net6.0\OrderAssignmentEF.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\C#taining\OrderAssignmentEF\OrderAssignmentEF\obj\Debug\net6.0\EFCoreSqliteNetTopologySuite.cs
+C:\Users\hp\source\repos\C#taining\OrderAssignmentEF\OrderAssignmentEF\obj\Debug\net6.0\OrderAssignmentEF.dll
+C:\Users\hp\source\repos\C#taining\OrderAssignmentEF\OrderAssignmentEF\obj\Debug\net6.0\ref\OrderAssignmentEF.dll
+C:\Users\hp\source\repos\C#taining\OrderAssignmentEF\OrderAssignmentEF\obj\Debug\net6.0\OrderAssignmentEF.pdb
+C:\Users\hp\source\repos\C#taining\OrderAssignmentEF\OrderAssignmentEF\obj\Debug\net6.0\OrderAssignmentEF.genruntimeconfig.cache
