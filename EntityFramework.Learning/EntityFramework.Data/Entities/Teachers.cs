@@ -3,10 +3,8 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace EntityFramework.Data.Entities
 {
-    public class Employee
+    public class Teachers
     {
-
-
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
 
         [Key]
@@ -14,14 +12,9 @@ namespace EntityFramework.Data.Entities
         public int ID { get; set; }
 
         [Column(TypeName = "Varchar(50)")]
+
         public string? Name { get; set; }
 
-        [Column(TypeName = "Varchar(100)")]
-        public string? Address { get; set; }
-
-        public ICollection<EmployeeEducation> EducationList { get; set; }
-
+        public ICollection<ClassRoom> classRooms { get; set; }
     }
 }
-
-

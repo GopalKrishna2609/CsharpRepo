@@ -10,6 +10,7 @@ namespace EntityFramework.Data.Entities
 {
     public class EmployeeEducation
     {
+
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
 
         [Key]
@@ -20,10 +21,11 @@ namespace EntityFramework.Data.Entities
 
         public string? UniversityName { get; set; }
 
-
         public int PassingYear { get; set; }
 
         public int MarksPercentage { get; set; }
-        
+
+        public Employee Employee { get; set; }
+
     }
 }

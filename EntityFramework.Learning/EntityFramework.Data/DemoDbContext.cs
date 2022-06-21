@@ -8,6 +8,9 @@ namespace EntityFramework.Data
         public DbSet<Employee> Employees { get; set; }
         public DbSet<EmployeeEducation> EmployeeEducations { get; set; }
 
+        public DbSet<ClassRoom> classRooms { get; set; }
+        public DbSet<Teachers> Teachers { get; set; }
+
         public  DemoDbContext()
         {
 

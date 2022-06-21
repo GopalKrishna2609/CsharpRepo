@@ -3,7 +3,6 @@ C:\Users\hp\source\repos\C#taining\EntityFramework.Learning\EntityFramework.Data
 C:\Users\hp\source\repos\C#taining\EntityFramework.Learning\EntityFramework.Data\bin\Debug\net6.0\EntityFramework.Data.dll
 C:\Users\hp\source\repos\C#taining\EntityFramework.Learning\EntityFramework.Data\bin\Debug\net6.0\ref\EntityFramework.Data.dll
 C:\Users\hp\source\repos\C#taining\EntityFramework.Learning\EntityFramework.Data\bin\Debug\net6.0\EntityFramework.Data.pdb
-C:\Users\hp\source\repos\C#taining\EntityFramework.Learning\EntityFramework.Data\obj\Debug\net6.0\EntityFramework.Data.csproj.AssemblyReference.cache
 C:\Users\hp\source\repos\C#taining\EntityFramework.Learning\EntityFramework.Data\obj\Debug\net6.0\EntityFramework.Data.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\hp\source\repos\C#taining\EntityFramework.Learning\EntityFramework.Data\obj\Debug\net6.0\EntityFramework.Data.AssemblyInfoInputs.cache
 C:\Users\hp\source\repos\C#taining\EntityFramework.Learning\EntityFramework.Data\obj\Debug\net6.0\EntityFramework.Data.AssemblyInfo.cs
@@ -12,3 +11,4 @@ C:\Users\hp\source\repos\C#taining\EntityFramework.Learning\EntityFramework.Data
 C:\Users\hp\source\repos\C#taining\EntityFramework.Learning\EntityFramework.Data\obj\Debug\net6.0\ref\EntityFramework.Data.dll
 C:\Users\hp\source\repos\C#taining\EntityFramework.Learning\EntityFramework.Data\obj\Debug\net6.0\EntityFramework.Data.pdb
 C:\Users\hp\source\repos\C#taining\EntityFramework.Learning\EntityFramework.Data\obj\Debug\net6.0\EntityFramework.Data.genruntimeconfig.cache
+C:\Users\hp\source\repos\C#taining\EntityFramework.Learning\EntityFramework.Data\obj\Debug\net6.0\EntityFramework.Data.csproj.AssemblyReference.cache

@@ -7,69 +7,109 @@ namespace ConsoleApp1
     {
         public static void Main()
         {
-            CRUDManager obj = new CRUDManager();
-            //#region Employee
+
+            //CRUDManager obj = new CRUDManager();
+
             //Console.WriteLine("Adding a new Employee");
-            //obj.Insert(new Employee { Name = "Krishna", Address = "Durg" });
-            //obj.Insert(new Employee { Name = "Ajay", Address = "Bombay" });
+            //obj.Insert(new Employee { Name = "Utkarsh", Address = "Gurgaon" });
+            //obj.Insert(new Employee { Name = "Abhimanyu", Address = "Delhi" });
             //PrintAllEmployees();
 
-            //Console.WriteLine("Updating Employee with EmployeeId 7");
-            //obj.Update(7, new Employee { Name = "Modified Employee", Address = "Modified Address" });
+            //Console.WriteLine("Updating Employee with EmployeeId 2");
+            //obj.Update(2, new Employee { Name = "Modified Employee", Address = "Modified Address" });
             //PrintAllEmployees();
 
-            //Console.WriteLine("Retrieving Employee details for EmployeeId 7");
-            //var employee = obj.GetEmplpoyeeById(7);
-            //Console.WriteLine($"Employee Name of employee ID 7 is {employee.Name}");
+            //Console.WriteLine("Retrieving Employee details for EmployeeId 2");
+            //var employee = obj.GetEmplpoyeeById(2);
+            //Console.WriteLine($"Employee Name of employee ID 2 is {employee.Name}");
 
-            //Console.WriteLine("Deleting Employee details for EmployeeId 7");
-            //obj.Delete(7);
+            //Console.WriteLine("Deleting Employee details for EmployeeId 2");
+            //obj.Delete(2);
             //PrintAllEmployees();
+
+            //Console.ReadLine();
+
+           // SaveEmployeeAndEducation();
+
+            SaveClassRoomAndTeacher();
+
+        }
+
+        //private static void PrintAllEmployees()
+        //{
+        //    Console.WriteLine("Printing all Employees");
+        //    CRUDManager obj = new CRUDManager();
+        //    foreach (Employee employee in obj.GetAllEmployees())
+        //    {
+        //        Console.WriteLine($"Employee Name is {employee.Name} and address is {employee.Address}");
+        //    }
+        //}
+
+        private static void SaveEmployeeAndEducation()
+        {
+            CURDeducationManager obj = new CURDeducationManager();
+            //#region Save data in both the tables by Only Inserting in Education Table
+            //var employee = new Employee { Name = "Gopal", Address = "DURG" };
+            //List<EmployeeEducation> educationList = new List<EmployeeEducation>();
+            //educationList.Add(new EmployeeEducation
+            //{
+            //    CourseName = "BTech",
+            //    UniversityName = "DURG",
+            //    MarksPercentage = 89,
+            //    PassingYear = 2022,
+            //    Employee = employee
+            //});
+            //educationList.Add(new EmployeeEducation
+            //{
+            //    CourseName = "MTech",
+            //    UniversityName = "Delhi",
+            //    MarksPercentage = 86,
+            //    PassingYear = 2024,
+            //    Employee = employee
+            //});
+
+            //obj.InsertEducation(educationList);
             //#endregion
 
-            #region EmployeeEducation
+            //#region Save data in both the tables by only Inserting in Employee Table
+            //List<EmployeeEducation> educationList = new List<EmployeeEducation>();
+            //educationList.Add(new EmployeeEducation { CourseName = "BBA", UniversityName = "Manipal", MarksPercentage = 80, PassingYear = 2020 });
+            //educationList.Add(new EmployeeEducation { CourseName = "MBA", UniversityName = "Manipal", MarksPercentage = 75, PassingYear = 2022 });
 
-            Console.WriteLine("Adding a new Employee Education");
-            obj.Insert(new EmployeeEducation { CourseName = "Bcom", UniversityName = "ITUT", PassingYear = 2022, MarksPercentage = 96 });
-            obj.Insert(new EmployeeEducation { CourseName = "MCA", UniversityName = "CSVTU", PassingYear = 2020, MarksPercentage = 97 });
-            PrintAllEmployeeEducation();
+            //obj.InsertEmployeeAndEducation(new Employee { Name = "Aditya", Address = "Hyderabad" }, educationList);
+            //#endregion
 
-            Console.WriteLine("Updating Employee Education with ID 5");
-            obj.Update(5, new EmployeeEducation { CourseName = "Modified CourseName", UniversityName = "Modified UniversityName", PassingYear = 0000, MarksPercentage = 00 });
-            PrintAllEmployeeEducation();
+            //#region updating Education of existing Employee by adding or clearing previous data
+            //List<EmployeeEducation> educationList = new List<EmployeeEducation>();
+            //educationList.Add(new EmployeeEducation { CourseName = "BCA", UniversityName = "Himachal", MarksPercentage = 80, PassingYear = 2020 });
+            //educationList.Add(new EmployeeEducation { CourseName = "Mtech", UniversityName = "Bihar", MarksPercentage = 75, PassingYear = 2022 });
+
+            //obj.InsertEducationofExistingEmployee(3, educationList);
+            //#endregion
+            //bj.PrintEmployeeAndEducation(2);
 
 
-            Console.WriteLine("Retrieving Employee Education details for ID 5");
-            var employeeEducation = obj.GetEmplpoyeeEducationById(5);
-            Console.WriteLine($"Employee Name of  ID 1 is {employeeEducation.ID}");
-
-            Console.WriteLine("Deleting Employee Education details for ID 5");
-            obj.DeleteEmpEdu(5);
-            PrintAllEmployeeEducation();
-
-            #endregion
-
+            Console.WriteLine("Done !!!");
             Console.ReadLine();
         }
 
+        private static void SaveClassRoomAndTeacher()
+        {
+            CURDClassRoomAndTeacher obj = new CURDClassRoomAndTeacher();
 
-        private static void PrintAllEmployees()
-        {
-            Console.WriteLine("Printing all Employees");
-            CRUDManager obj = new CRUDManager();
-            foreach (Employee employee in obj.GetAllEmployees())
-            {
-                Console.WriteLine($"Employee Name is {employee.Name} and address is {employee.Address}");
-            }
-        }
-        private static void PrintAllEmployeeEducation()
-        {
-            Console.WriteLine("Printing all Employees");
-            CRUDManager obj = new CRUDManager();
-            foreach (EmployeeEducation empEdu in obj.GetAllEmployeeEducation())
-            {
-                Console.WriteLine($"ID = {empEdu.ID} Cource Name = {empEdu.CourseName} UniversityName = {empEdu.UniversityName} PassingYear = {empEdu.PassingYear} MarksPercentage = {empEdu.MarksPercentage} ");
-            }
+            //obj.InsertTeacher(new Teachers { Name = "Utkarsh" });
+            //obj.InsertClassRoom(new ClassRoom { Name = "Computer Science" });
+
+            List<Teachers> teachers = new List<Teachers>();
+            teachers.Add(new Teachers { Name = "Vidya"});
+            teachers.Add(new Teachers { Name = "Shrijan" });
+
+
+            obj.InsertClassRoomAndTeacher(new ClassRoom { Name = "Computer Science" },teachers);
+
+
+            Console.WriteLine("Done !!!");
+            Console.ReadLine();
         }
     }
 }
