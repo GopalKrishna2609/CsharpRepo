@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\C#taining\EmployeeOrganizationEF\EmployeeOrganizationData\bin\Debug\net6.0\EmployeeOrganizationData.deps.json
+C:\Users\hp\source\repos\C#taining\EmployeeOrganizationEF\EmployeeOrganizationData\bin\Debug\net6.0\EmployeeOrganizationData.runtimeconfig.json
+C:\Users\hp\source\repos\C#taining\EmployeeOrganizationEF\EmployeeOrganizationData\bin\Debug\net6.0\EmployeeOrganizationData.dll
+C:\Users\hp\source\repos\C#taining\EmployeeOrganizationEF\EmployeeOrganizationData\bin\Debug\net6.0\ref\EmployeeOrganizationData.dll
+C:\Users\hp\source\repos\C#taining\EmployeeOrganizationEF\EmployeeOrganizationData\bin\Debug\net6.0\EmployeeOrganizationData.pdb
+C:\Users\hp\source\repos\C#taining\EmployeeOrganizationEF\EmployeeOrganizationData\obj\Debug\net6.0\EmployeeOrganizationData.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\C#taining\EmployeeOrganizationEF\EmployeeOrganizationData\obj\Debug\net6.0\EmployeeOrganizationData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\C#taining\EmployeeOrganizationEF\EmployeeOrganizationData\obj\Debug\net6.0\EmployeeOrganizationData.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\C#taining\EmployeeOrganizationEF\EmployeeOrganizationData\obj\Debug\net6.0\EmployeeOrganizationData.AssemblyInfo.cs
+C:\Users\hp\source\repos\C#taining\EmployeeOrganizationEF\EmployeeOrganizationData\obj\Debug\net6.0\EmployeeOrganizationData.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\C#taining\EmployeeOrganizationEF\EmployeeOrganizationData\obj\Debug\net6.0\EmployeeOrganizationData.dll
+C:\Users\hp\source\repos\C#taining\EmployeeOrganizationEF\EmployeeOrganizationData\obj\Debug\net6.0\ref\EmployeeOrganizationData.dll
+C:\Users\hp\source\repos\C#taining\EmployeeOrganizationEF\EmployeeOrganizationData\obj\Debug\net6.0\EmployeeOrganizationData.pdb
+C:\Users\hp\source\repos\C#taining\EmployeeOrganizationEF\EmployeeOrganizationData\obj\Debug\net6.0\EmployeeOrganizationData.genruntimeconfig.cache

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f0c3b7dc-4b27-4658-a27b-824b9c43c44a": {
+      "ProjectGuid": "f0c3b7dc-4b27-4658-a27b-824b9c43c44a",
+      "DisplayName": "EmployeeOrganizationData",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "188e96d3-d61f-4592-afa3-0b79a4ef99de": {
+      "ProjectGuid": "188e96d3-d61f-4592-afa3-0b79a4ef99de",
+      "DisplayName": "EmployeeOrganizationConsoleApp",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

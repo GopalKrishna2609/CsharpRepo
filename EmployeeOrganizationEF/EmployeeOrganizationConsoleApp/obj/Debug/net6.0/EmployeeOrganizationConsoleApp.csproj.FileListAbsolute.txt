@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\C#taining\EmployeeOrganizationEF\EmployeeOrganizationConsoleApp\bin\Debug\net6.0\EmployeeOrganizationConsoleApp.exe
+C:\Users\hp\source\repos\C#taining\EmployeeOrganizationEF\EmployeeOrganizationConsoleApp\bin\Debug\net6.0\EmployeeOrganizationConsoleApp.deps.json
+C:\Users\hp\source\repos\C#taining\EmployeeOrganizationEF\EmployeeOrganizationConsoleApp\bin\Debug\net6.0\EmployeeOrganizationConsoleApp.runtimeconfig.json
+C:\Users\hp\source\repos\C#taining\EmployeeOrganizationEF\EmployeeOrganizationConsoleApp\bin\Debug\net6.0\EmployeeOrganizationConsoleApp.dll
+C:\Users\hp\source\repos\C#taining\EmployeeOrganizationEF\EmployeeOrganizationConsoleApp\bin\Debug\net6.0\ref\EmployeeOrganizationConsoleApp.dll
+C:\Users\hp\source\repos\C#taining\EmployeeOrganizationEF\EmployeeOrganizationConsoleApp\bin\Debug\net6.0\EmployeeOrganizationConsoleApp.pdb
+C:\Users\hp\source\repos\C#taining\EmployeeOrganizationEF\EmployeeOrganizationConsoleApp\obj\Debug\net6.0\EmployeeOrganizationConsoleApp.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\C#taining\EmployeeOrganizationEF\EmployeeOrganizationConsoleApp\obj\Debug\net6.0\EmployeeOrganizationConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\C#taining\EmployeeOrganizationEF\EmployeeOrganizationConsoleApp\obj\Debug\net6.0\EmployeeOrganizationConsoleApp.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\C#taining\EmployeeOrganizationEF\EmployeeOrganizationConsoleApp\obj\Debug\net6.0\EmployeeOrganizationConsoleApp.AssemblyInfo.cs
+C:\Users\hp\source\repos\C#taining\EmployeeOrganizationEF\EmployeeOrganizationConsoleApp\obj\Debug\net6.0\EmployeeOrganizationConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\C#taining\EmployeeOrganizationEF\EmployeeOrganizationConsoleApp\obj\Debug\net6.0\EmployeeOrganizationConsoleApp.dll
+C:\Users\hp\source\repos\C#taining\EmployeeOrganizationEF\EmployeeOrganizationConsoleApp\obj\Debug\net6.0\ref\EmployeeOrganizationConsoleApp.dll
+C:\Users\hp\source\repos\C#taining\EmployeeOrganizationEF\EmployeeOrganizationConsoleApp\obj\Debug\net6.0\EmployeeOrganizationConsoleApp.pdb
+C:\Users\hp\source\repos\C#taining\EmployeeOrganizationEF\EmployeeOrganizationConsoleApp\obj\Debug\net6.0\EmployeeOrganizationConsoleApp.genruntimeconfig.cache
